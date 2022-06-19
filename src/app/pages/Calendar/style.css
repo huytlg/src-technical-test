@@ -1,3 +1,4 @@
-div {
-    font-size: 5rem;
+.calendar__weekdays {
+    display: flex;
+    overflow-x: auto;
 }

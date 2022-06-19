@@ -1,0 +1,16 @@
+.wd__container {
+    min-width: 14.28%;
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+}
+
+.wd__title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.wd-box {
+    border: 1px solid #bfbfba;
+}
