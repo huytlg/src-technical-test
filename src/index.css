@@ -17,3 +17,8 @@ body {
   line-height: 1.7;
   box-sizing: border-box;
 }
+
+.container {
+  max-width: 114rem;
+  margin: 0 auto;
+}
