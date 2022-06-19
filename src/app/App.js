@@ -3,7 +3,7 @@ import Calendar from "./pages/Calendar";
 
 const App = () => {
   return (
-      <div>
+      <div className="app">
         <Calendar/>
       </div>
   )
